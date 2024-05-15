@@ -1,0 +1,55 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+newmtl standardSurface4SG
+illum 4
+Kd 0.27 0.33 0.36
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.24 0.24 0.24
+newmtl standardSurface5SG
+illum 4
+Kd 0.31 0.00 0.02
+Ka 0.13 0.13 0.13
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.08 0.08 0.08
+newmtl standardSurface7SG
+illum 4
+Kd 0.04 0.05 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.22 0.22 0.22
+newmtl standardSurface8SG
+illum 4
+Kd 0.50 0.25 0.38
+Ka 0.35 0.35 0.35
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.29 0.29 0.29
+newmtl standardSurface9SG
+illum 4
+Kd 0.82 0.62 0.56
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.06 0.06
+newmtl standardSurface10SG
+illum 4
+Kd 0.00 0.35 0.35
+Ka 0.43 0.43 0.43
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.15 0.15 0.15
+newmtl standardSurface11SG
+illum 4
+Kd 0.00 0.16 0.33
+Ka 0.51 0.51 0.51
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.33 0.33
